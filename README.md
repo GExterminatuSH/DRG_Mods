@@ -1,5 +1,8 @@
-# Modpack by ExterminatuS
-# **Equipment**
+**Modpack by ExterminatuS**
+
+**Warning! Unbalanced mod!**
+
+# Equipment
 ## Scout
 ### Flare Gun
 - Increases max ammo from 12 to 24
@@ -19,7 +22,7 @@
 - Increased the number of flares from 4 to 6
 - Recharge is reduced by half
 
-## **Robots**
+## Robots
 ### The APD-B317 (aka "Bosco")
 - Has built in 9001 revives for testing or whatever.
 - Gave him a good spotlight for looking around and lighting up areas passively.
@@ -40,7 +43,7 @@
 - Increases Doretta's top movement speed when encouraged by dwarven hugs by 20%. (from 1.0 to 1.2)
 - Increases Doretta's movement speed while being attacked by 20%. (from 1.0 to 1.2)
 
-# **Missions**
+# Missions
 ## Random Events
 - Increases spawn chance Cargo Crates from 1/6 to 100%
 - Increases spawn chance Lost Loot Packs from 1/6 to 100%
@@ -56,7 +59,7 @@
 - Increases spawn chance Huuli Hoarder 15% to 100%
 - Increases spawn chance Golden Loot Bug 15% to 100%
 
-# **Resources**
+# Resources
 ## Mission-Related
 ### Secondary Objectives
 ### Ebonut
