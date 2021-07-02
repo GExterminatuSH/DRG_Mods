@@ -1,8 +1,8 @@
-**Modpack by ExterminatuS**
+[**Modpack by ExterminatuS**](https://github.com/GExterminatuSH/DRG_Mods/blob/main/Ex_ModPack_P.pak)
 
 **Warning! Unbalanced mod!**
 
-[текст ссылки](адрес ссылки)
+
 # Equipment
 ## Scout
 ### Flare Gun
@@ -65,3 +65,22 @@
 ### Secondary Objectives
 ### Ebonut
 - Replaces the material of ebonut shells with the one from Ebonut sockets, which emits biege-purple light, making them significantly more noticeable.
+
+# Perks
+##Deep Pockets
+- Changed from +15 to +500
+##BornReady
+- Unequipped auto reload changed from 5 sec to 0,5 seconds
+##Field Medic
+- Increases reviving speed from 30% to 200%
+- Increases charges from 1 to 3
+##Hover Boots
+- Reduces cooldown changed from 75 to 0.1 seconds
+##Iron Will
+- Increases charges from 1 to 3
+- Increases duration from 12 to 30 seconds
+##Thorns
+- Increases damage from 24 to 100
+- Removes 0.7s reactivation delay.
+##Vampire
+- Increases Health gain from 5 to 50
