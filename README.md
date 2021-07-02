@@ -67,20 +67,20 @@
 - Replaces the material of ebonut shells with the one from Ebonut sockets, which emits biege-purple light, making them significantly more noticeable.
 
 # Perks
-##Deep Pockets
+## Deep Pockets
 - Changed from +15 to +500
-##BornReady
+## BornReady
 - Unequipped auto reload changed from 5 sec to 0,5 seconds
-##Field Medic
+## Field Medic
 - Increases reviving speed from 30% to 200%
 - Increases charges from 1 to 3
-##Hover Boots
+## Hover Boots
 - Reduces cooldown changed from 75 to 0.1 seconds
-##Iron Will
+## Iron Will
 - Increases charges from 1 to 3
 - Increases duration from 12 to 30 seconds
-##Thorns
+## Thorns
 - Increases damage from 24 to 100
 - Removes 0.7s reactivation delay.
-##Vampire
+## Vampire
 - Increases Health gain from 5 to 50
