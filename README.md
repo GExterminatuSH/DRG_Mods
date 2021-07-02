@@ -2,6 +2,7 @@
 
 **Warning! Unbalanced mod!**
 
+[текст ссылки](адрес ссылки)
 # Equipment
 ## Scout
 ### Flare Gun
