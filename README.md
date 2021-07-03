@@ -53,6 +53,11 @@
 - Increases spawn resources in Deep Dives (x10 modifiler)
 - The resource veins only work for the host but the deposited ones do work for clients
 
+## Mutators
+### Anomalies
+#### Mineral Mania
+- Increases spawn resources from x2 to x10
+
 ## Random Events
 - Increases spawn chance Cargo Crates from 1/6 to 100%
 - Reduces the repair time of Cargo Crates from 10s to 1s
@@ -72,7 +77,7 @@
 # Resources
 ## Mission-Related
 ### Secondary Objectives
-### Ebonut
+#### Ebonut
 - Replaces the material of ebonut shells with the one from Ebonut sockets, which emits biege-purple light, making them significantly more noticeable.
 
 # Perks
