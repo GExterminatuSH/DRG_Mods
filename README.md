@@ -56,7 +56,7 @@
 ## Mutators
 ### Anomalies
 #### Mineral Mania
-- Increases spawn resources from x2 to x10
+- Increases spawn resources from x2 to x20
 
 ## Random Events
 - Increases spawn chance Cargo Crates from 1/6 to 100%
