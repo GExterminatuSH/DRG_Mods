@@ -2,7 +2,16 @@
 
 **Warning! Unbalanced mod!**
 
+# How to install
 
+Simply drop the mod pak file into: ...\Deep Rock Galactic\FSD\Content\Paks
+
+You can easily locate your game installation path using steam:
+
+1. Right click Deep Rock Galactic in your steam library.
+2. Go to "Manage" > "Browse local files".
+
+# Changes 
 # Equipment
 ## Scout
 ### Flare Gun
