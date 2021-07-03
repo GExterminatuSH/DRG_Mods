@@ -4,7 +4,7 @@
 
 # How to install
 
-Simply drop the mod pak file into: ...\Deep Rock Galactic\FSD\Content\Paks
+Simply drop the mod pak file into: `...\Deep Rock Galactic\FSD\Content\Paks`
 
 You can easily locate your game installation path using steam:
 
