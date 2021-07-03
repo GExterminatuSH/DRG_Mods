@@ -11,7 +11,7 @@ You can easily locate your game installation path using steam:
 1. Right click Deep Rock Galactic in your steam library.
 2. Go to "Manage" > "Browse local files".
 
-# Changes 
+# Description 
 # Equipment
 ## Scout
 ### Flare Gun
@@ -31,6 +31,8 @@ You can easily locate your game installation path using steam:
 ### Flare
 - Increased the number of flares from 4 to 6
 - Recharge is reduced by half
+### Flashlight
+- Increases the reach x5 and intensity x1.5
 
 ## Robots
 ### The APD-B317 (aka "Bosco")
@@ -52,6 +54,12 @@ You can easily locate your game installation path using steam:
 - Increases Doretta's mining speed by 66% (from 0.6 to 1.0)
 - Increases Doretta's top movement speed when encouraged by dwarven hugs by 20%. (from 1.0 to 1.2)
 - Increases Doretta's movement speed while being attacked by 20%. (from 1.0 to 1.2)
+### Drilldozer Fuel Canisters (Client side mod)
+- Increases laser range from 4m to 25m
+- Reduces melting time from 0.45s to 0.1s
+- All but removes vacuum delay on picking up loose chunks of oil shale
+- Dramatically increases amount of oil shale mined
+- Removes 15%  carrying movement penalty and allows sprinting
 
 # Missions
 ## Salvage Operation
@@ -107,3 +115,10 @@ You can easily locate your game installation path using steam:
 - Removes 0.7s reactivation delay.
 ## Vampire
 - Increases Health gain from 5 to 50
+
+# Abyss Bar
+## Today's Special
+### Pots O' Gold 
+- Increases Gold Mined from x2 to x5
+### Red Rock Blaster 
+- Increases Max Health from 30% to 100%
