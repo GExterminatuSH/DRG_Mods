@@ -45,13 +45,22 @@
 - Increases Doretta's movement speed while being attacked by 20%. (from 1.0 to 1.2)
 
 # Missions
+## Salvage Operation
+- Reduces repair time of broken resupplies found in Salvage missions from 20s to 3s
+- Increases chance of repaired supply pod working from 50% to 75%
+
+## Deep Dives
+- Increases spawn resources in Deep Dives (x10 modifiler)
+- The resource veins only work for the host but the deposited ones do work for clients
+
 ## Random Events
 - Increases spawn chance Cargo Crates from 1/6 to 100%
+- Reduces the repair time of Cargo Crates from 10s to 1s
 - Increases spawn chance Lost Loot Packs from 1/6 to 100%
 
 ## Machine Events
 - Increases spawn chance Machine Events from 25% to 100%
-- Reduces use time on machine event buttons from 5 seconds to 2 seconds
+- Reduces use time on machine event buttons from 5s to 2s
 
 ## Creature Encounters
 - Reduces spawn chance BET-C from 6% to 0%
