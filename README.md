@@ -73,7 +73,7 @@ You can easily locate your game installation path using steam:
 ## Mutators
 ### Anomalies
 #### Mineral Mania
-- Increases spawn resources from x2 to x20
+- Increases spawn resources from x2 to x5
 
 ## Random Events
 - Increases spawn chance Cargo Crates from 1/6 to 100%
